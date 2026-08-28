@@ -1,0 +1,6 @@
+{
+  "name": "research",
+  "description": "Agent de recherche web en lecture seule",
+  "version": "0.1.0",
+  "author": { "name": "Milan Durbic" }
+}

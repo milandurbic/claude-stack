@@ -1,0 +1,19 @@
+{
+  "name": "claude-stack",
+  "description": "Agents et skills partages pour nos projets SaaS",
+  "owner": {
+    "name": "Milan Durbic"
+  },
+  "plugins": [
+    {
+      "name": "saas-core",
+      "source": "./plugins/saas-core",
+      "description": "Agents de developpement pour nos SaaS Next.js/TypeScript"
+    },
+    {
+      "name": "research",
+      "source": "./plugins/research",
+      "description": "Agent de recherche web en lecture seule"
+    }
+  ]
+}
